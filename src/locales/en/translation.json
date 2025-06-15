@@ -1,0 +1,285 @@
+{
+  "nav": {
+    "hello": "_hello",
+    "about": "_about-me",
+    "projects": "_projects",
+    "hire": "_hire-me",
+    "contact": "_contact-me"
+  },
+  "home": {
+    "greeting": "Hi all. I am",
+    "role": "Software Developer",
+    "gameText": "// complete the game to continue",
+    "githubText": "// you can also see it on my Github page",
+    "githubLink": "https://github.com/benbatuu"
+  },
+  "bio": {
+    "title": "About me",
+    "description": "Full Stack Developer with a passion for creating innovative solutions and exploring cutting-edge technologies. Experienced in building scalable web applications and integrating modern tech.",
+    "fullDescription": "I'm a passionate Full Stack Developer with extensive experience in web and mobile development. Specializing in creating scalable applications using modern technologies and best practices. I enjoy tackling complex problems and turning innovative ideas into reality. Currently focused on AI integration and cloud-native solutions.",
+    "interests": "Interests & Expertise",
+    "personalInfo": "personal-info"
+  },
+  "education": {
+    "title": "Education",
+    "languages": "Languages",
+    "turkish": "Turkish (Native)",
+    "english": "English (Professional)",
+    "university": {
+      "isik": {
+        "name": "Işık University",
+        "degree": "Computer Engineering",
+        "period": "2019-2024",
+        "details": "English Education"
+      },
+      "kirklareli": {
+        "name": "Kırklareli University",
+        "degree": "Computer Programming",
+        "period": "2015-2017",
+        "achievement": "Department 2nd Place Graduate"
+      }
+    }
+  },
+  "experience": {
+    "title": "Work Experience",
+    "current": "Current",
+    "roles": {
+      "fullstack": "Full Stack Developer",
+      "software": "Software Developer",
+      "web": "Web Developer"
+    },
+    "companies": {
+      "dna": {
+        "name": "DNA Technology & BrandWallet",
+        "period": "2022-Current"
+      },
+      "realtor": {
+        "name": "Realtor Global",
+        "period": "2021-2022"
+      },
+      "smk": {
+        "name": "Sosyal Medya Kampüsü & 1010 İstanbul",
+        "period": "2018-2021"
+      },
+      "grafil": {
+        "name": "Grafil",
+        "period": "2017-2018"
+      }
+    }
+  },
+  "projects": {
+    "title": "_projects",
+    "viewGithub": "view-github",
+    "viewProject": "view-project",
+    "techStack": "// tech-stack",
+    "shown":"shown projects",
+    "loading":"Projects Loading...",
+    "items": {
+      "portfolio": {
+        "title": "Portfolio Website",
+        "description": "Personal portfolio website built with React and TailwindCSS"
+      },
+      "ecommerce": {
+        "title": "E-commerce Platform",
+        "description": "Full-stack e-commerce platform with user authentication"
+      },
+      "taskManager": {
+        "title": "Task Manager",
+        "description": "Task management application with real-time updates"
+      }
+    }
+  },
+  "contact": {
+    "location": "Location",
+    "title": "Contact",
+    "sidebar": {
+      "contacts": "contacts",
+      "findMe": "find-me-also-in"
+    },
+    "email": "bennbatuu@gmail.com",
+    "phone": "+90 541 472 58 20",
+    "social": {
+      "github": "Github",
+      "instagram": "Instagram",
+      "linkedin": "Linkedin"
+    },
+    "form": {
+      "name": "_name:",
+      "email": "_email:",
+      "message": "_message:",
+      "upload":"_upload-file:",
+      "submit": "submit-message",
+      "placeholders": {
+        "name": "Your name",
+        "email": "Your email",
+        "message": "Type your message here..."
+      },
+      "thankYou": {
+        "title": "Thank you! 🤘",
+        "message": "Your message has been accepted. You will receive answer really soon!",
+        "newMessage": "send-new-message"
+      }
+    }
+  },
+  "footer": {
+    "findMe": "find me in:",
+    "username": "bennbatuu",
+    "createdAt": "Created 5 months ago"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "close": "Close",
+    "open": "Open",
+    "lastupdated": "Last updated:"
+  },
+  "about": {
+    "personalInfo": {
+      "title": "Personal Information",
+      "name": "name",
+      "email": "Email",
+      "phone": "Phone",
+      "folder": "personal-info",
+      "bio": "bio",
+      "education": "education",
+      "experience": "experience",
+      "contacts": "contacts",
+      "interests": "interests",
+      "description": "description",
+      "role": "role"
+    },
+    "bio": {
+      "title": "About me",
+      "description": [
+        "With over five years of experience in web development, I am a passionate and dedicated software developer committed to staying at the forefront of technology. I thrive on learning new tools and frameworks to create user-centric and visually appealing applications while ensuring robust and scalable backend systems.",
+
+        "On the frontend, I specialize in modern libraries and frameworks like React and Next.js, delivering seamless user experiences through intuitive and functional designs. My strong interest in UI/UX principles allows me to craft solutions that are both aesthetically pleasing and highly practical.",
+
+        "On the backend, I work with technologies like Node.js and Express to design high-performance, scalable architectures. My passion for DevOps and cloud technologies has led me to gain expertise in tools such as AWS and Docker, enabling efficient deployment and management of applications. I am also deeply interested in microservices architecture and system design, continuously refining my skills in these areas.",
+
+        "Throughout my career, I have successfully contributed to both individual projects and collaborative team efforts, developing innovative solutions and optimizing workflows. My approach prioritizes not only addressing current requirements but also anticipating future needs to deliver sustainable and impactful results.",
+
+        "For me, software development is more than just a profession—it is a passion. Every new project represents an opportunity to learn, grow, and innovate. By combining my technical expertise with problem-solving abilities, I aim to create meaningful and lasting value in every project I undertake."
+      ],
+      "interests": "Interests & Expertise",
+      "interestsList": [
+        "Modern Web Technologies (React, Next.js)",
+        "Backend Development (Node.js, Express)",
+        "DevOps & Cloud (AWS, Docker)",
+        "Microservice Architectures",
+        "UI/UX Design",
+        "System Design"
+      ]
+    }
+  },
+  "code": {
+    "company": "company",
+    "period": "period",
+    "role": "role",
+    "school": "school",
+    "degree": "degree",
+    "details": "details",
+    "achievement": "achievement",
+    "languages": "languages",
+    "current": "current",
+    "previous": "previous",
+    "university": "university",
+    "education": "education",
+    "experience": "experience",
+    "email": "email",
+    "phone": "phone",
+    "social": "social",
+    "github": "github",
+    "instagram": "instagram",
+    "linkedin": "linkedin",
+    "location": "location",
+    "contact": "contact"
+  },
+  "fileUpload": {
+    "label": "Upload File",
+    "dropzone": {
+      "title": "Click to upload or drag and drop",
+      "supportedFormats": "Supported formats: PDF, DOC, DOCX, TXT",
+      "maxSize": "Maximum file size: 10MB"
+    },
+    "errors": {
+      "fileSize": "File size cannot be larger than 10MB",
+      "fileType": "Unsupported file type"
+    }
+  },
+  "hireMe": {
+    "title": "Let's Work Together",
+    "subtitle": "I transform your dream projects into reality using modern web technologies. Quality code, timely delivery, and excellent communication guaranteed.",
+    "servicesTitle": "My Services",
+    "testimonialsTitle": "Client Testimonials",
+    "contactTitle": "Project Discussion",
+    "services": {
+      "frontend": {
+        "title": "Frontend Development",
+        "description": "Responsive web applications with modern React, Next.js, and TypeScript"
+      },
+      "fullstack": {
+        "title": "Full-Stack Development",
+        "description": "Complete web solutions with backend and frontend integration"
+      },
+      "mobile": {
+        "title": "Mobile Development",
+        "description": "Cross-platform mobile applications with React Native"
+      },
+      "uiux": {
+        "title": "UI/UX Design Implementation",
+        "description": "Pixel-perfect code implementation from Figma designs"
+      }
+    },
+    "form": {
+      "name": "Full Name",
+      "namePlaceholder": "Your first and last name",
+      "email": "Email",
+      "emailPlaceholder": "email@example.com",
+      "company": "Company",
+      "companyPlaceholder": "Company name (optional)",
+      "position": "Position",
+      "positionPlaceholder": "CEO, Product Manager, etc.",
+      "projectType": "Project Type",
+      "projectTypePlaceholder": "Select project type",
+      "projectTypes": {
+        "webApp": "Web Application",
+        "mobileApp": "Mobile Application",
+        "ecommerce": "E-commerce",
+        "landingPage": "Landing Page",
+        "fullStack": "Full-Stack Project",
+        "other": "Other"
+      },
+      "budget": "Budget Range",
+      "budgetPlaceholder": "Select budget range",
+      "budgetRanges": {
+        "range1": "$1,000 - $3,000",
+        "range2": "$3,000 - $6,000",
+        "range3": "$6,000 - $10,000",
+        "range4": "$10,000+",
+        "discuss": "Let's discuss"
+      },
+      "timeline": "Timeline",
+      "timelinePlaceholder": "Select timeline",
+      "timelines": {
+        "asap": "Urgent (1-2 weeks)",
+        "oneMonth": "Within 1 month",
+        "twoThreeMonths": "Within 2-3 months",
+        "flexible": "Flexible"
+      },
+      "contactPreference": "Contact Preference",
+      "contactMethods": {
+        "email": "Email",
+        "whatsapp": "WhatsApp",
+        "linkedin": "LinkedIn"
+      },
+      "message": "Project Details",
+      "messagePlaceholder": "Please provide detailed information about your project. What do you want to build? What features should it have? Share reference sites if available...",
+      "submit": "Send Project Proposal",
+      "sending": "Sending...",
+      "successMessage": "Your message has been sent successfully! I'll get back to you as soon as possible.",
+      "errorMessage": "An error occurred. Please try again or send a direct email.",
+      "cancel": "Cancel"
+    }
+  }
+} 

@@ -1,0 +1,297 @@
+{
+  "nav": {
+    "hello": "_merhaba",
+    "about": "_hakkımda",
+    "projects": "_projeler",
+    "hireme": "_işe-al",
+    "contact": "_iletişim"
+  },
+  "home": {
+    "greeting": "Merhaba. Ben",
+    "role": "Yazılım Geliştirici",
+    "gameText": "// devam etmek için oyunu tamamla",
+    "githubText": "// Github sayfamda da görebilirsin",
+    "githubLink": "https://github.com/benbatuu"
+  },
+  "bio": {
+    "title": "Hakkımda",
+    "description": "Yenilikçi çözümler üretme ve en son teknolojileri keşfetme tutkusu olan Full Stack Geliştirici. Ölçeklenebilir web uygulamaları geliştirme ve modern teknolojileri entegre etme konusunda deneyimli.",
+    "fullDescription": "Web ve mobil geliştirme konusunda kapsamlı deneyime sahip tutkulu bir Full Stack Geliştiriciyim. Modern teknolojiler ve en iyi uygulamaları kullanarak ölçeklenebilir uygulamalar geliştirme konusunda uzmanım. Karmaşık problemleri çözmeyi ve yenilikçi fikirleri gerçeğe dönüştürmeyi seviyorum. Şu anda yapay zeka entegrasyonu ve cloud-native çözümlerine odaklanmış durumdayım.",
+    "interests": "İlgi Alanları & Uzmanlıklar",
+    "personalInfo": "kişisel-bilgiler"
+  },
+  "education": {
+    "title": "Eğitim",
+    "languages": "Diller",
+    "turkish": "Türkçe (Anadil)",
+    "english": "İngilizce (Profesyonel)",
+    "university": {
+      "isik": {
+        "name": "Işık Üniversitesi",
+        "degree": "Bilgisayar Mühendisliği",
+        "period": "2019-2024",
+        "details": "İngilizce Eğitim"
+      },
+      "kirklareli": {
+        "name": "Kırklareli Üniversitesi",
+        "degree": "Bilgisayar Programcılığı",
+        "period": "2015-2017",
+        "achievement": "Bölüm 2.si"
+      }
+    }
+  },
+  "experience": {
+    "title": "İş Deneyimi",
+    "current": "Güncel",
+    "roles": {
+      "fullstack": "Full Stack Geliştirici",
+      "software": "Yazılım Geliştirici",
+      "web": "Web Geliştirici"
+    },
+    "companies": {
+      "dna": {
+        "name": "DNA Technology & BrandWallet",
+        "period": "2022-Güncel"
+      },
+      "realtor": {
+        "name": "Realtor Global",
+        "period": "2021-2022"
+      },
+      "smk": {
+        "name": "Sosyal Medya Kampüsü & 1010 İstanbul",
+        "period": "2018-2021"
+      },
+      "grafil": {
+        "name": "Grafil",
+        "period": "2017-2018"
+      }
+    }
+  },
+  "projects": {
+    "title": "_projeler",
+    "viewGithub": "github'da-gör",
+    "viewProject": "projeyi-gör",
+    "techStack": "// teknoloji-stack",
+    "shown":"gösteriliyor",
+    "loading":"Projeler yükleniyor...",
+    "items": {
+      "portfolio": {
+        "title": "Portfolyo Websitesi",
+        "description": "React ve TailwindCSS ile oluşturulmuş kişisel portfolyo websitesi"
+      },
+      "ecommerce": {
+        "title": "E-ticaret Platformu",
+        "description": "Kullanıcı kimlik doğrulamalı full-stack e-ticaret platformu"
+      },
+      "taskManager": {
+        "title": "Görev Yöneticisi",
+        "description": "Gerçek zamanlı güncellemelerle görev yönetim uygulaması"
+      }
+    }
+  },
+  "contact": {
+    "location": "Konum",
+    "title": "İletişim",
+    "sidebar": {
+      "contacts": "iletişim",
+      "findMe": "sosyal-medya"
+    },
+    "email": "bennbatuu@gmail.com",
+    "phone": "+90 541 472 58 20",
+    "social": {
+      "github": "https://github.com/benbatuu",
+      "instagram": "https://www.instagram.com/bennbatuu",
+      "linkedin": "https://www.linkedin.com/in/bennbatuu"
+    },
+    "form": {
+      "name": "_isim:",
+      "email": "_eposta:",
+      "message": "_mesaj:",
+      "upload":"_dosya-yükle:",
+      "submit": "mesaj-gönder",
+      "placeholders": {
+        "name": "Adınız",
+        "email": "E-posta adresiniz",
+        "message": "Mesajınızı buraya yazın..."
+      },
+      "thankYou": {
+        "title": "Teşekkürler! 🤘",
+        "message": "Mesajınız alındı. En kısa sürede size dönüş yapılacak!",
+        "newMessage": "yeni-mesaj-gönder"
+      }
+    }
+  },
+  "footer": {
+    "findMe": "iletişim",
+    "username": "bennbatuu",
+    "createdAt": "5 ay önce oluşturuldu"
+  },
+  "common": {
+    "loading": "Yükleniyor...",
+    "error": "Bir şeyler yanlış gitti",
+    "close": "Kapat",
+    "open": "Aç",
+    "lastupdated": "Son güncelleme:"
+  },
+  "about": {
+    "personalInfo": {
+      "title": "Kişisel Bilgiler",
+      "name": "isim",
+      "email": "E-posta",
+      "phone": "Telefon",
+      "folder": "kişisel-bilgiler",
+      "bio": "biyografi",
+      "education": "eğitim",
+      "experience": "deneyim",
+      "contacts": "iletişim",
+      "interests": "ilgiAlanları",
+      "description": "açıklama",
+      "role": "rol"
+    },
+    "bio": {
+      "name": "hakkımda",
+      "title": "Hakkımda",
+      "description": [
+        "5 yılı aşkın bir süredir web geliştirme alanında deneyim sahibi, öğrenmeye ve yeniliklere açık bir yazılım geliştiricisiyim. Teknolojinin hızla değişen dünyasında, modern web teknolojilerini takip ederek hem kullanıcı dostu arayüzler hem de güçlü altyapılar oluşturmayı hedefliyorum.",
+
+        "Frontend tarafında React ve Next.js gibi modern kütüphanelerle kullanıcı deneyimini ön planda tutan uygulamalar geliştiriyorum. UI/UX tasarım prensiplerine olan ilgim sayesinde estetik ve işlevsel çözümler sunmayı seviyorum.",
+
+        "Backend tarafında Node.js ve Express gibi teknolojilerle performanslı ve ölçeklenebilir sistemler tasarlıyorum. DevOps ve bulut teknolojilerine olan ilgimle AWS, Docker gibi araçları etkin bir şekilde kullanarak uygulamalarımı en iyi şekilde dağıtmak ve yönetmek için çalışıyorum. Mikroservis mimarileri ve sistem tasarımı konularına meraklıyım ve bu alanlarda kendimi sürekli geliştirmeye özen gösteriyorum.",
+
+        "Hem bireysel projelerde hem de ekip çalışmalarıyla edindiğim deneyimler, sorunları çözme ve süreçleri iyileştirme konularında bana esneklik ve yaratıcılık kazandırdı. Geliştirdiğim projelerde sadece bugünün değil, geleceğin ihtiyaçlarını da karşılayabilecek çözümler sunmayı önemsiyorum.",
+
+        "Yazılım geliştirme benim için sadece bir iş değil; aynı zamanda bir tutku. Her yeni proje, öğrenme ve büyüme yolculuğunun bir parçası. Hem teknik becerilerimi hem de problem çözme yeteneklerimi bir araya getirerek, etkileyici ve kalıcı değer yaratacak işler ortaya koymayı hedefliyorum."
+      ],
+      "interests": "İlgi Alanları",
+      "interestsList": [
+        "Modern Web Teknolojileri (React, Next.js)",
+        "Backend Geliştirme (Node.js, Express)",
+        "DevOps & Cloud (AWS, Docker)",
+        "Mikroservis Mimarileri",
+        "UI/UX Tasarım",
+        "Sistem Tasarımı"
+      ]
+    },
+    "education": {
+      "title": "Eğitim",
+      "languages": "Diller"
+    },
+    "experience": {
+      "title": "İş Deneyimi"
+    },
+    "contact": {
+      "title": "İletişim Bilgileri",
+      "location": "Konum"
+    }
+  },
+  "code": {
+    "company": "firma",
+    "period": "süre",
+    "role": "pozisyon",
+    "school": "okul",
+    "degree": "bölüm",
+    "details": "detaylar",
+    "achievement": "başarı",
+    "languages": "diller",
+    "current": "güncel",
+    "previous": "önceki",
+    "university": "üniversite",
+    "education": "egitim",
+    "experience": "deneyim",
+    "email": "eposta",
+    "phone": "telefon",
+    "social": "sosyal",
+    "github": "github",
+    "instagram": "instagram",
+    "linkedin": "linkedin",
+    "location": "konum",
+    "contact": "iletisim"
+  },
+  "fileUpload": {
+    "label": "Dosya Yükle",
+    "dropzone": {
+      "title": "Dosya yüklemek için tıklayın veya sürükleyin",
+      "supportedFormats": "Desteklenen formatlar: PDF, DOC, DOCX, TXT",
+      "maxSize": "Maksimum dosya boyutu: 10MB"
+    },
+    "errors": {
+      "fileSize": "Dosya boyutu 10MB'dan büyük olamaz",
+      "fileType": "Desteklenmeyen dosya türü"
+    }
+  },
+  "hireMe": {
+    "title": "Birlikte Çalışalım",
+    "subtitle": "Modern web teknolojileri ile hayallerinizdeki projeyi gerçeğe dönüştürüyorum. Kaliteli kod, zamanında teslim ve mükemmel iletişim garantisi.",
+    "servicesTitle": "Hizmetlerim",
+    "testimonialsTitle": "Müşteri Yorumları",
+    "contactTitle": "Proje Görüşmesi",
+    "services": {
+      "frontend": {
+        "title": "Frontend Development",
+        "description": "Modern React, Next.js ve TypeScript ile responsive web uygulamaları"
+      },
+      "fullstack": {
+        "title": "Full-Stack Development",
+        "description": "Backend ve frontend entegrasyonu ile complete web solutions"
+      },
+      "mobile": {
+        "title": "Mobile Development",
+        "description": "React Native ile cross-platform mobile applications"
+      },
+      "uiux": {
+        "title": "UI/UX Design Implementation",
+        "description": "Figma tasarımlarından pixel-perfect kod implementasyonu"
+      }
+    },
+    "form": {
+      "name": "Ad Soyad",
+      "namePlaceholder": "Adınız ve soyadınız",
+      "email": "Email",
+      "emailPlaceholder": "email@example.com",
+      "company": "Şirket",
+      "companyPlaceholder": "Şirket adı (opsiyonel)",
+      "position": "Pozisyon",
+      "positionPlaceholder": "CEO, Product Manager, vb.",
+      "projectType": "Proje Türü",
+      "projectTypePlaceholder": "Proje türünü seçin",
+      "projectTypes": {
+        "webApp": "Web Uygulaması",
+        "mobileApp": "Mobil Uygulama",
+        "ecommerce": "E-ticaret",
+        "landingPage": "Landing Page",
+        "fullStack": "Full-Stack Proje",
+        "other": "Diğer"
+      },
+      "budget": "Bütçe Aralığı",
+      "budgetPlaceholder": "Bütçe aralığını seçin",
+      "budgetRanges": {
+        "range1": "5,000₺ - 15,000₺",
+        "range2": "15,000₺ - 30,000₺",
+        "range3": "30,000₺ - 50,000₺",
+        "range4": "50,000₺+",
+        "discuss": "Görüşme yapalım"
+      },
+      "timeline": "Zaman Çizelgesi",
+      "timelinePlaceholder": "Zaman çizelgesini seçin",
+      "timelines": {
+        "asap": "Acil (1-2 hafta)",
+        "oneMonth": "1 ay içinde",
+        "twoThreeMonths": "2-3 ay içinde",
+        "flexible": "Esnek"
+      },
+      "contactPreference": "İletişim Tercihi",
+      "contactMethods": {
+        "email": "Email",
+        "whatsapp": "WhatsApp",
+        "linkedin": "LinkedIn"
+      },
+      "message": "Proje Detayları",
+      "messagePlaceholder": "Projeniz hakkında detaylı bilgi verin. Ne yapmak istiyorsunuz? Hangi özellikler olsun? Varsa referans siteler paylaşın...",
+      "submit": "Proje Teklifini Gönder",
+      "sending": "Gönderiliyor...",
+      "successMessage": "Mesajınız başarıyla gönderildi! En kısa sürede size dönüş yapacağım.",
+      "errorMessage": "Bir hata oluştu. Lütfen tekrar deneyin veya direkt email gönderin.",
+      "cancel": "İptal"
+    }
+  }
+} 
