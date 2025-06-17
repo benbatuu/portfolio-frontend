@@ -6,7 +6,7 @@ export const Home = () => {
   const { t } = useTranslation();
 
   return (
-    <div className="min-h-screen flex flex-col bg-gradient-to-b from-[#010C15] to-[#011221] text-[#607B96]">
+    <div className="h-screen flex flex-col bg-gradient-to-b from-[#010C15] to-[#011221] text-[#607B96]">
       {/* Navigation */}
       <Navbar />
 

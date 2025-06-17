@@ -4,6 +4,7 @@
     "about": "_about-me",
     "projects": "_projects",
     "hire": "_hire-me",
+    "resume": "_resume",
     "contact": "_contact-me"
   },
   "home": {
@@ -280,6 +281,211 @@
       "successMessage": "Your message has been sent successfully! I'll get back to you as soon as possible.",
       "errorMessage": "An error occurred. Please try again or send a direct email.",
       "cancel": "Cancel"
+    }
+  },
+  "resume": {
+    "hero": {
+      "name": "Batuhan Küçük",
+      "title": "Full Stack Developer",
+      "description": "Passionate about creating innovative solutions and exploring cutting-edge technologies",
+      "downloadCV": "Download CV",
+      "email": "bennbatuu@gmail.com",
+      "phone": "+90 541 472 58 20",
+      "location": "İstanbul / Türkiye"
+    },
+    "stats": {
+      "title": "Key Statistics",
+      "description": "A quick overview of my professional journey",
+      "items": [
+        {
+          "title": "Projects Completed",
+          "value": 50,
+          "description": "Successful projects delivered",
+          "icon": "Code"
+        },
+        {
+          "title": "Years Experience",
+          "value": 5,
+          "description": "Professional development",
+          "icon": "Briefcase"
+        },
+        {
+          "title": "Certifications",
+          "value": 12,
+          "description": "Technical certifications",
+          "icon": "Award"
+        },
+        {
+          "title": "Client Satisfaction",
+          "value": "100%",
+          "description": "Happy clients",
+          "icon": "Star"
+        }
+      ]
+    },
+    "experience": {
+      "title": "Work Experience",
+      "description": "My professional journey and achievements",
+      "jobs": [
+        {
+          "year": "Nov 2023 - Present",
+          "title": "Full Stack Developer",
+          "company": "DNA Technology & BrandWallet",
+          "description": "Designed and developed microsites and campaign automation tools. Built robust integration systems using modern full-stack technologies.",
+          "technologies": ["React.js", "Next.js", "Vite", "Node.js", ".NET Core", "Kafka", "Redis", "Azure"]
+        },
+        {
+          "year": "Sep 2023 - Dec 2024",
+          "title": "IT Consultant",
+          "company": "Realtor Global Real Estate",
+          "description": "Led digital transformation initiatives to enhance operational efficiency. Focused on UI development, data analysis, and security improvements.",
+          "technologies": ["Digital Transformation", "Data Analysis", "Security", "Project Management"]
+        },
+        {
+          "year": "Jan 2023 - Sep 2023",
+          "title": "Mid-Level PHP Developer",
+          "company": "Realtor Global Real Estate",
+          "description": "Maintained and improved CRM systems and corporate website infrastructure.",
+          "technologies": ["PHP (PDO)", "MySQL", "HTML", "CSS", "JavaScript"]
+        },
+        {
+          "year": "Sep 2019 - Aug 2023",
+          "title": "Full Stack Developer",
+          "company": "1010 Istanbul & Social Media Campus",
+          "description": "Developed and maintained web and mobile applications. Oversaw system administration and managed cloud server environments.",
+          "technologies": ["Full Stack", "Web Development", "Mobile Applications", "Cloud Management"]
+        }
+      ]
+      
+    },
+    "education": {
+      "title": "Education",
+      "description": "My academic background",
+      "items": [
+        {
+          "title": "Computer Engineering",
+          "school": "Işık University",
+          "period": "2019-2024",
+          "description": "English Education"
+        },
+        {
+          "title": "Computer Programming",
+          "school": "Kırklareli University",
+          "period": "2015-2017",
+          "description": "Department 2nd Place Graduate"
+        }
+      ]
+    },
+    "skills": {
+      "title": "Technical Skills",
+      "description": "My expertise in various technologies",
+      "items": [
+            {
+              "name": "React",
+              "level": 90,
+              "category": "Frontend"
+            },
+            {
+              "name": "TypeScript",
+              "level": 85,
+              "category": "Frontend"
+            },
+            {
+              "name": "Next.js",
+              "level": 85,
+              "category": "Frontend"
+            },
+            {
+              "name": "Tailwind CSS",
+              "level": 80,
+              "category": "Frontend"
+            },
+            {
+              "name": "Redux",
+              "level": 75,
+              "category": "Frontend"
+            },
+            {
+              "name": "Node.js",
+              "level": 85,
+              "category": "Backend"
+            },
+            {
+              "name": "Express.js",
+              "level": 80,
+              "category": "Backend"
+            },
+            {
+              "name": "Prisma",
+              "level": 75,
+              "category": "Backend"
+            },
+            {
+              "name": "PostgreSQL",
+              "level": 85,
+              "category": "Backend"
+            },
+            {
+              "name": "MongoDB",
+              "level": 70,
+              "category": "Backend"
+            },
+            {
+              "name": "GraphQL",
+              "level": 70,
+              "category": "Backend"
+            },
+            {
+              "name": "AWS",
+              "level": 75,
+              "category": "DevOps"
+            },
+            {
+              "name": "Docker",
+              "level": 70,
+              "category": "DevOps"
+            },
+            {
+              "name": "GitHub Actions",
+              "level": 65,
+              "category": "DevOps"
+            },
+            {
+              "name": "Vercel",
+              "level": 80,
+              "category": "DevOps"
+            },
+            {
+              "name": "NGINX",
+              "level": 70,
+              "category": "DevOps"
+            },
+            {
+              "name": "Linux",
+              "level": 75,
+              "category": "DevOps"
+            }
+          ]
+    },
+    "languages": {
+      "title": "Languages",
+      "description": "Languages I speak",
+      "items": [
+        {
+          "name": "Turkish",
+          "level": "Native",
+          "flag": "/tr-flag.png"
+        },
+        {
+          "name": "English",
+          "level": "Professional",
+          "flag": "/en-flag.png"
+        }
+      ]
+    },
+    "footer": {
+      "copyright": "© 2024 Ben Batu. All rights reserved.",
+      "madeWith": "Made with ❤️ using React and TypeScript"
     }
   }
 } 

@@ -226,7 +226,7 @@ export const CodeBlocks = () => {
           }
         `}
       </style>
-      <div className="scroll-wrapper">
+      <div className="scroll-wrapper h-full">
         <div className="continuous-scroll">
           <div className="scroll-content">
             {[...codeSnippets, ...codeSnippets, ...codeSnippets].map((snippet, index) => (

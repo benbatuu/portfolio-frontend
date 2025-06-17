@@ -3,7 +3,8 @@
     "hello": "_merhaba",
     "about": "_hakkımda",
     "projects": "_projeler",
-    "hireme": "_işe-al",
+    "resume": "_özgeçmiş",
+    "hire": "_işe-al",
     "contact": "_iletişim"
   },
   "home": {
@@ -293,5 +294,172 @@
       "errorMessage": "Bir hata oluştu. Lütfen tekrar deneyin veya direkt email gönderin.",
       "cancel": "İptal"
     }
+  },
+  "resume":{
+      "hero": {
+        "name": "Batuhan Küçük",
+        "title": "Full Stack Developer",
+        "description": "Yenilikçi çözümler yaratma ve en yeni teknolojileri keşfetme konusunda tutkulu",
+        "downloadCV": "CV İndir",
+        "location": "İstanbul / Türkiye"
+      },
+      "stats": {
+        "projects": "Projeler",
+        "projectsDesc": "Tamamlanan proje sayısı",
+        "experience": "Deneyim",
+        "experienceDesc": "Yıllık profesyonel deneyim",
+        "certifications": "Yetenekler",
+        "certificationsDesc": "Teknik yetkinlikler",
+        "satisfaction": "Başarı Oranı",
+        "satisfactionDesc": "Proje tamamlama oranı"
+      },
+      "experience": {
+        "title": "Profesyonel Deneyim",
+        "description":"Profesyonel kariyerim",
+        "jobs": [
+          {
+            "year": "Kas 2023 - Şu an",
+            "title": "Full Stack Developer",
+            "company": "DNA Technology & BrandWallet",
+            "description": "Mikro siteler ve kampanya otomasyon araçları tasarladı ve geliştirdi. Modern full-stack araçları kullanarak sağlam entegrasyon sistemleri kurdu.",
+            "technologies": ["React.js", "Next.js", "Vite", "Node.js", ".NET Core", "Kafka", "Redis", "Azure"]
+          },
+          {
+            "year": "Eyl 2023 - Ara 2024",
+            "title": "IT Danışmanı",
+            "company": "Realtor Global Real Estate",
+            "description": "Operasyonel verimliliği artırmak için dijital dönüşüm girişimlerini yönetti. Arayüz geliştirme, veri analizi ve güvenlik iyileştirmelerine odaklandı.",
+            "technologies": ["Dijital Dönüşüm", "Veri Analizi", "Güvenlik", "Proje Yönetimi"]
+          },
+          {
+            "year": "Oca 2023 - Eyl 2023",
+            "title": "Orta Seviye PHP Developer",
+            "company": "Realtor Global Real Estate",
+            "description": "CRM sistemleri ve kurumsal web sitesi altyapısını sürdürdü ve geliştirdi.",
+            "technologies": ["PHP (PDO)", "MySQL", "HTML", "CSS", "JavaScript"]
+          },
+          {
+            "year": "Eyl 2019 - Ağu 2023",
+            "title": "Full Stack Developer",
+            "company": "1010 İstanbul & Sosyal Medya Kampüsü",
+            "description": "Web ve mobil uygulamaları geliştirdi ve sürdürdü. Sistem yönetimini denetledi ve bulut sunucu ortamlarını yönetti.",
+            "technologies": ["Full Stack", "Web Geliştirme", "Mobil Uygulamalar", "Bulut Yönetimi"]
+          }
+        ]
+      },
+      "skills": {
+        "title": "Teknik Yetenekler",
+        "description":"Kullandığım teknolojilerde uzmnlanlık seviyeleri",
+        "items": [
+            {
+              "name": "React",
+              "level": 90,
+              "category": "Frontend"
+            },
+            {
+              "name": "TypeScript",
+              "level": 85,
+              "category": "Frontend"
+            },
+            {
+              "name": "Next.js",
+              "level": 85,
+              "category": "Frontend"
+            },
+            {
+              "name": "Tailwind CSS",
+              "level": 80,
+              "category": "Frontend"
+            },
+            {
+              "name": "Redux",
+              "level": 75,
+              "category": "Frontend"
+            },
+            {
+              "name": "Node.js",
+              "level": 85,
+              "category": "Backend"
+            },
+            {
+              "name": "Express.js",
+              "level": 80,
+              "category": "Backend"
+            },
+            {
+              "name": "Prisma",
+              "level": 75,
+              "category": "Backend"
+            },
+            {
+              "name": "PostgreSQL",
+              "level": 85,
+              "category": "Backend"
+            },
+            {
+              "name": "MongoDB",
+              "level": 70,
+              "category": "Backend"
+            },
+            {
+              "name": "GraphQL",
+              "level": 70,
+              "category": "Backend"
+            },
+            {
+              "name": "AWS",
+              "level": 75,
+              "category": "DevOps"
+            },
+            {
+              "name": "Docker",
+              "level": 70,
+              "category": "DevOps"
+            },
+            {
+              "name": "GitHub Actions",
+              "level": 65,
+              "category": "DevOps"
+            },
+            {
+              "name": "Vercel",
+              "level": 80,
+              "category": "DevOps"
+            },
+            {
+              "name": "NGINX",
+              "level": 70,
+              "category": "DevOps"
+            },
+            {
+              "name": "Linux",
+              "level": 75,
+              "category": "DevOps"
+            }
+          ]
+      },
+      "education": {
+        "title": "Eğitim",
+        "items": [
+          {
+            "degree": "Bilgisayar Mühendisliği Lisans",
+            "school": "Işık Üniversitesi",
+            "period": "Eyl 2019 - Ağu 2024"
+          },
+          {
+            "degree": "Bilgisayar Programcılığı Ön Lisans",
+            "school": "Kırklareli Üniversitesi",
+            "period": "Eyl 2015 - Ağu 2017"
+          }
+        ]
+      },
+      "languages": {
+        "title": "Diller",
+        "items": [
+          { "flag":"/tr-flag.png","name": "Türkçe", "level": "Ana dil" },
+          { "flag":"/en-flag.png","name": "İngilizce", "level": "Profesyonel (B1)" }
+        ]
+      },
+      "footer": "© 2024 Batuhan Küçük. Tüm hakları saklıdır."
   }
 } 

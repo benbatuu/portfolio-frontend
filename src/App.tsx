@@ -7,6 +7,7 @@ import { Contact } from './pages/Contact/Contact';
 import { MainLayout } from './components/Layout/MainLayout';
 import './i18n';
 import { HireMe } from './pages/Hire/Hire';
+import { Resume } from './pages/Resume/Resume';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
             <Route path="/" element={<Home />} />
             <Route path="/about" element={<About />} />
             <Route path="/projects" element={<Projects />} />
+            <Route path="/resume" element={<Resume />} />
             <Route path="/hire" element={<HireMe />} />
             <Route path="/contact" element={<Contact />} />
           </Routes>

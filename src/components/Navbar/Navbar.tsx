@@ -26,8 +26,10 @@ export const Navbar = () => {
     <nav className="flex flex-col sm:flex-row items-stretch border-b border-[#1E2D3D] text-[#607B96] w-full">
       {/* Left Side - Name */}
       <div className="flex items-center justify-between sm:justify-start border-b sm:border-b-0 sm:border-r border-[#1E2D3D]">
-        <div className="px-6 py-4 text-white w-full text-center sm:text-left sm:w-[250px] whitespace-nowrap">
-          batuhan-kucuk
+        <div className="px-6 py-4 text-white w-full text-center  sm:w-[120px] whitespace-nowrap">
+          <Link to="/" className="text-lg font-bold">
+            <img src="/logo.png" alt="Logo" className="h-8 inline-block mr-2" />
+          </Link>
         </div>
         {/* Mobile Menu Button */}
         <div className="flex items-center sm:hidden pr-4">
@@ -106,6 +108,15 @@ export const Navbar = () => {
                 {t('nav.projects')}
               </Link>
               <Link
+                to="/resume"
+                className={`block px-4 py-3 border-b border-[#1E2D3D] hover:text-white hover:bg-[#1E2D3D] transition-colors ${
+                  currentPath === "/resume" ? "text-white bg-[#1E2D3D]" : ""
+                }`}
+                onClick={() => setIsMenuOpen(false)}
+              >
+                {t('nav.resume')}
+              </Link>
+              <Link
                 to="/hire"
                 className={`block px-4 py-3 border-b border-[#1E2D3D] hover:text-white hover:bg-[#1E2D3D] transition-colors ${
                   currentPath === "/hire" ? "text-white bg-[#1E2D3D]" : ""
@@ -154,6 +165,14 @@ export const Navbar = () => {
             }`}
           >
             {t('nav.projects')}
+          </Link>
+          <Link
+            to="/resume"
+            className={`flex-shrink-0 text-center px-4 sm:px-8 py-4 border-r border-[#1E2D3D] hover:text-white hover:bg-[#1E2D3D] transition-colors ${
+              currentPath === "/resume" ? "text-white border-b-2 border-b-[#FEA55F]" : ""
+            }`}
+          >
+            {t('nav.resume')}
           </Link>
           <Link
             to="/hire"
